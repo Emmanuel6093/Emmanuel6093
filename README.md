@@ -30,7 +30,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from North Carolina.
 
-- :telescope: I’m currently searching for a development spot. 
+- :telescope: I’m currently searching for a development position. 
 
 - :seedling: Exploring different technologies.
 
