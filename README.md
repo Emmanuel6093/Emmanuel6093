@@ -30,8 +30,6 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from North Carolina.
 
-- :telescope: I’m currently searching for a development position. 
-
 - :seedling: Exploring different technologies.
 
 - :zap: In my free time, I solve problems on leetcode, study, and surround myself around cars!
